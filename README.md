@@ -1,4 +1,6 @@
-## Hi there 👋
+## welcome!/Bem-vindo(a)!
+🌱 I’m currently learning Front-end Development/Atualmente aprendendo desenvolvimento Front-end
+[![roadmap.sh](https://roadmap.sh/card/tall/670e053c791f57dd60f83b61?variant=dark&roadmaps=frontend)](https://roadmap.sh)
 
 <!--
 **Raposadd/Raposadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
